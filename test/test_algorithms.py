@@ -18,6 +18,7 @@ palindromes = [
     "racecar",
     "12321",
     "not a palindrome"
+    ""
 ]
 
 expected_results = [
@@ -30,7 +31,8 @@ expected_results = [
     False,
     True,
     True,
-    False
+    False,
+    True
 ]
 
 
